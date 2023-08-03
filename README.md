@@ -25,9 +25,12 @@ Here are some ideas to get you started:
 <br>
 <br>
 ## Expertise
-<img align="left" alt="selenium" src="https://img.shields.io/badge/selenium%20-%23007396.svg?&style=for-the-badge&logo=selenium&logoColor=white" />
 <img align="left" alt="java" src="https://img.shields.io/badge/java%20-%233776AB.svg?&style=for-the-badge&logo=java&logoColor=white" />
+<img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img align="left" alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img align="left" alt="selenium" src="https://img.shields.io/badge/selenium%20-%23007396.svg?&style=for-the-badge&logo=selenium&logoColor=white" />
 <img align="left" alt="cypress" src="https://img.shields.io/badge/cypress-%23232F3E?logo=cypress&logoColor=white&style=for-the-badge" />
+<img align="left" alt="playwright" src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white" />
 <img align="left" alt="postman" src="https://img.shields.io/badge/postman-%23326CE5?color=orange&logo=postman&logoColor=white&style=for-the-badge" />
 
 
